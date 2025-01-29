@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+pydantic
+jose
+deepl
+email-validator 
+pymongo[srv]
+redis
+PyJWT
+routes
+tokenizers
